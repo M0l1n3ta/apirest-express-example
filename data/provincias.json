@@ -1,0 +1,202 @@
+[
+    {
+    "id": 1,
+    "descriptivo": "ALAVA"
+ },
+    {
+    "id": 2,
+    "descriptivo": "ALBACETE"
+ },
+    {
+    "id": 3,
+    "descriptivo": "ALICANTE"
+ },
+    {
+    "id": 4,
+    "descriptivo": "ALMERIA"
+ },
+    {
+    "id": 5,
+    "descriptivo": "AVILA"
+ },
+    {
+    "id": 6,
+    "descriptivo": "BADAJOZ"
+ },
+    {
+    "id": 7,
+    "descriptivo": "BALEARES"
+ },
+    {
+    "id": 8,
+    "descriptivo": "BARCELONA"
+ },
+    {
+    "id": 9,
+    "descriptivo": "BURGOS"
+ },
+    {
+    "id": 10,
+    "descriptivo": "CACERES"
+ },
+    {
+    "id": 11,
+    "descriptivo": "CADIZ"
+ },
+    {
+    "id": 12,
+    "descriptivo": "CASTELLON"
+ },
+    {
+    "id": 13,
+    "descriptivo": "CIUDAD REAL"
+ },
+    {
+    "id": 14,
+    "descriptivo": "CORDOBA"
+ },
+    {
+    "id": 15,
+    "descriptivo": "A CORUÃ‘A"
+ },
+    {
+    "id": 16,
+    "descriptivo": "CUENCA"
+ },
+    {
+    "id": 17,
+    "descriptivo": "GIRONA"
+ },
+    {
+    "id": 18,
+    "descriptivo": "GRANADA"
+ },
+    {
+    "id": 19,
+    "descriptivo": "GUADALAJARA"
+ },
+    {
+    "id": 20,
+    "descriptivo": "GUIPUZCOA"
+ },
+    {
+    "id": 21,
+    "descriptivo": "HUELVA"
+ },
+    {
+    "id": 22,
+    "descriptivo": "HUESCA"
+ },
+    {
+    "id": 23,
+    "descriptivo": "JAEN"
+ },
+    {
+    "id": 24,
+    "descriptivo": "LEON"
+ },
+    {
+    "id": 25,
+    "descriptivo": "LLEIDA"
+ },
+    {
+    "id": 26,
+    "descriptivo": "LA RIOJA"
+ },
+    {
+    "id": 27,
+    "descriptivo": "LUGO"
+ },
+    {
+    "id": 28,
+    "descriptivo": "MADRID"
+ },
+    {
+    "id": 29,
+    "descriptivo": "MALAGA"
+ },
+    {
+    "id": 30,
+    "descriptivo": "MURCIA"
+ },
+    {
+    "id": 31,
+    "descriptivo": "NAVARRA"
+ },
+    {
+    "id": 32,
+    "descriptivo": "OURENSE"
+ },
+    {
+    "id": 33,
+    "descriptivo": "ASTURIAS"
+ },
+    {
+    "id": 34,
+    "descriptivo": "PALENCIA"
+ },
+    {
+    "id": 35,
+    "descriptivo": "LAS PALMAS"
+ },
+    {
+    "id": 36,
+    "descriptivo": "PONTEVEDRA"
+ },
+    {
+    "id": 37,
+    "descriptivo": "SALAMANCA"
+ },
+    {
+    "id": 38,
+    "descriptivo": "STA.CRUZ TENERIFE"
+ },
+    {
+    "id": 39,
+    "descriptivo": "CANTABRIA"
+ },
+    {
+    "id": 40,
+    "descriptivo": "SEGOVIA"
+ },
+    {
+    "id": 41,
+    "descriptivo": "SEVILLA"
+ },
+    {
+    "id": 42,
+    "descriptivo": "SORIA"
+ },
+    {
+    "id": 43,
+    "descriptivo": "TARRAGONA"
+ },
+    {
+    "id": 44,
+    "descriptivo": "TERUEL"
+ },
+    {
+    "id": 45,
+    "descriptivo": "TOLEDO"
+ },
+    {
+    "id": 46,
+    "descriptivo": "VALENCIA"
+ },
+    {
+    "id": 47,
+    "descriptivo": "VALLADOLID"
+ },
+    {
+    "id": 48,
+    "descriptivo": "VIZCAYA"
+ },
+    {
+    "id": 49,
+    "descriptivo": "ZAMORA"
+ },
+    {
+    "id": 50,
+    "descriptivo": "ZARAGOZA"
+ }
+]

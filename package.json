@@ -1,0 +1,16 @@
+{
+  "name": "miapi",
+  "version": "1.0.0",
+  "description": "Mi primera API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -L index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emilio J Roldan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
